@@ -15,3 +15,6 @@ window.addEventListener('scroll', function() {
         minhaSectio.classList.remove('scroll');
     }
 });
+
+
+const nome = 'antoino';
