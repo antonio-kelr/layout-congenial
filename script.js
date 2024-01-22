@@ -17,4 +17,3 @@ window.addEventListener('scroll', function() {
 });
 
 
-const nome = 'antoino';
